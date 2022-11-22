@@ -2,6 +2,8 @@
 
 Plot thumbnails of regional aggregations
 
+![](example.png)
+
 ## Data
 
 Download NUTS boundaries from [GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts#nuts21)
@@ -58,5 +60,3 @@ main(regions)
 ```
 
 The result is an thumbnail image of European regions colour coded by aggregation.
-
-![](example.png)
